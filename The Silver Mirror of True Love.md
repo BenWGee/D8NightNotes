@@ -1,0 +1,12 @@
+- Ice creature, perfect reflection of the player
+- Same stats of the player but 75% health
+- Creature will not attack first
+- Will always copy players action on their turn
+- Blue sections of map show thin ice that they will fall in on if not careful
+- White sections are difficult terrain
+- DC 15 DEX to avoid falling through ice
+- Can win the fight by disengaging the fight and dropping their weapon
+# Completion
+- Peaceful: 1 point, ending one
+- Fight and win: 1 point, ending two
+- Run away/defeat the creature by damaging the ice or mirror: 1 point, ending three
